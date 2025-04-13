@@ -1,0 +1,20 @@
+name: magic_button
+description: "A customizable Flutter button widget that displays an animated gradient border."
+version: 1.0.0
+homepage: https://vhdrjb.website/
+repository: https://github.com/vhdrjb/flutter_magic_button
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
