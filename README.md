@@ -2,6 +2,8 @@
 
 A customizable Flutter button widget that displays an animated gradient border. The gradient rotates around the button, creating an attractive visual effect. The button also includes hover animations and supports both text and icon content.
 
+![Magic Button](https://github.com/vhdrjb/flutter_magic_button/blob/main/images/magic_button.gif)
+
 ## Features
 
 - Animated gradient border that rotates around the button
